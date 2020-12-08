@@ -10,8 +10,9 @@
 <a href="https://www.sophia.ac.jp/">上智大学公式ホームページ</a>
 <p>
 	<a href="https://twitter.com/teraco_sophia">teraco公式Twitter</a>
-
-	 <a href="https://www.instagram.com/teraco_sophia/">teraco公式insragram</a>
+</p>
+<p>
+	<a href="https://www.instagram.com/teraco_sophia/">teraco公式insragram</a>
 </p>
 <p>
    <a href="https://docs.google.com/forms/d/e/1FAIpQLSeo8wmTybTc1FguDubcO_ezGijsVdgObJA8aWEl_C9H_NmSFg/viewform">teraco学習サポート応募フォーム</a>
