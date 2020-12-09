@@ -1,6 +1,6 @@
 <html>
 <head>
-<link rel="stylesheet" href="https://ycdycd.github.io/GitHubで付けたプロジェクト名/style.css"/>
+<link rel="stylesheet" href="https://ycdycd.github.io//style.css"/>
 <title>学習支援ボランティアサークル</title>
 </head>
 
