@@ -1,6 +1,7 @@
 <html>
 <head>
-<link rel="stylesheet" href="teraco2.css">
+<link rel="stylesheet" href="https://ycdycd.github.io/teraco_sophia/_static/alabaster.css"type=
+      "teraco2.css"/>
 <title>学習支援ボランティアサークル</title>
 </head>
 
