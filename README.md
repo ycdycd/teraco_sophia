@@ -7,8 +7,17 @@
 <body>
 <h2>こんにちは！</h2>
 <h2>上智大学公認学習ボランティアサークルteracoです！</h2>
-　h2{ 
-	}
+　 
+  h2{
+	 color: #CC0000;
+	 background: -webkit-linear-gradient(0deg, #40E0D0, #FF8C00, #FF0080);
+	 -webkit-background-clip: text;
+	 -webkit-text-fill-color: transparent;
+	 font-size: 50px;
+	 font-family:"Avenir Next";
+	 text-align: center;
+      }
+      
 <p>
 		<a href="https://www.sophia.ac.jp/">上智大学公式ホームページ</a></p>
 <p>
