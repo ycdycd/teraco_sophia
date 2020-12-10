@@ -2,7 +2,7 @@
 <head>
 <link rel="stylesheet" href="https://ycdycd.github.io/teraco_sophia/teraco2.cs"/>
 <title>学習支援ボランティアサークル</title>
-<style type=”text/css”>
+<style type="text/css">
 body{
   background-color : #FFFACD;
   text-align: center;
