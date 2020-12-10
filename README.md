@@ -2,16 +2,11 @@
 <head>
 <link rel="stylesheet" href="https://ycdycd.github.io/teraco_sophia/teraco2.cs"/>
 <title>学習支援ボランティアサークル</title>
-<style type="text/css">
-	 h2{
-	 color: #CC0000;
-	 background: -webkit-linear-gradient(0deg, #40E0D0, #FF8C00, #FF0080);
-	 -webkit-background-clip: text;
-	 -webkit-text-fill-color: transparent;
-	 font-size: 50px;
-	 font-family:"Avenir Next";
-	 text-align: center;
-      }
+<style type=”text/css”>
+h2 {
+margin: 0;
+font-size: 3em;
+}
 </style>
 </head>
 
