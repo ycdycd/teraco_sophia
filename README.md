@@ -7,7 +7,10 @@
 <body>
 <h2>こんにちは！</h2>
 <h2>上智大学公認学習ボランティアサークルteracoです！</h2>
-	<p><a href="https://www.sophia.ac.jp/">上智大学公式ホームページ</a></p>
+　h2{ 
+	}
+<p>
+		<a href="https://www.sophia.ac.jp/">上智大学公式ホームページ</a></p>
 <p>
 	<a href="https://twitter.com/teraco_sophia">teraco公式Twitter</a>
 </p>
