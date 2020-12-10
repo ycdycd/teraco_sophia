@@ -3,6 +3,10 @@
 <link rel="stylesheet" href="https://ycdycd.github.io/teraco_sophia/teraco2.cs"/>
 <title>学習支援ボランティアサークル</title>
 <style type=”text/css”>
+body{
+  background-color : #FFFACD;
+  text-align: center;
+}
 h2 {
 	 color: #CC0000;
 	 background: -webkit-linear-gradient(0deg, #40E0D0, #FF8C00, #FF0080);
