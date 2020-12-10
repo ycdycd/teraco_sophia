@@ -1,6 +1,5 @@
 <html>
 <head>
-<link rel="stylesheet" href="https://ycdycd.github.io/teraco_sophia/teraco2.cs"/>
 <title>学習支援ボランティアサークル</title>
 <style type="text/css">
 body{
@@ -15,6 +14,18 @@ h2 {
 	 font-size: 50px;
 	 font-family:"Avenir Next";
 	 text-align: center;
+}
+p{
+	color:broun;
+	font-size:40px;
+	font-family:"Avenir Next"
+}
+outer{
+	text-align: center;
+}
+inner{
+	display:inline-block;
+	text-align: left;
 }
 </style>
 </head>
